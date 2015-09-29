@@ -1,4 +1,6 @@
-# handlers_pending
+# Title
+What the title code looks like if the readme is opened in a texteditor.
+```#Title```
 
 An example of code block:
 
@@ -8,7 +10,7 @@ function test() {
 }
 ```
 
-An example of code block with ruby highlight:
+An example of code block with ruby syntax highlight:
 
 ```ruby
 require 'redcarpet'
@@ -22,6 +24,8 @@ require 'redcarpet'
 markdown = Redcarpet.new("This highlight for ruby code")
 puts markdown.to_html
 ```
+another option to do codeblocks is intenting the code by 4 spaces.
+
 
 An example of a table:
 
@@ -52,3 +56,13 @@ What this table looks like if the readme is opended in a text editor (notice tha
 | Help      | Display the help window.|
 | Close     | Closes a window     |
 ```
+
+This is an example of a task list(probebly not much use for us)
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+Github has emoji's (What?)
+:scream:
