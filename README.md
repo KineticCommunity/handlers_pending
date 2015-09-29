@@ -1,6 +1,9 @@
 # Title
+
 What the title code looks like if the readme is opened in a texteditor.
-```#Title```
+```
+#Title
+```
 
 An example of code block:
 
